@@ -17,7 +17,7 @@ The goals of this project are as follows:
 - Moving Bed, Fixed Gantry
 - MGN9 Rails (Z Axis)
 - MGN9 and MGN12 Rails (X, Y)
-- 9mm Belts on XY, 1204 Ballscrews on Z to lift gantry
+- 9mm Belts on XY, 1204 Ballscrews on Z to lift the Bed
 - Heavy Duty Bearings
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS Required, Filled Nylon Recommended)
