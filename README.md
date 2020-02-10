@@ -6,7 +6,7 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
-The goals of this project are as follows:
+This project is still in flux, things may change, the goals of this project are as follows:
 
 - Fully Enclosed Design
 - 2020 and 2040 Frame Members
