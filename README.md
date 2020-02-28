@@ -9,7 +9,7 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 This project is still in flux, things may change, the goals of this project are as follows:
 
 - Fully Enclosed Design
-- 2020 and 2040 Frame Members
+- 2020, 2040, and 2060 Frame Members
 - Insulated Build Chamber (Not Heated)
 - Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
 - Direct Drive Extruder
@@ -21,6 +21,6 @@ This project is still in flux, things may change, the goals of this project are 
 - Heavy Duty Bearings
 - LDO Stepper Motors (Optional but Recommended)
 - Minimal Printed Parts (ABS Required, Filled Nylon Recommended)
-- 32 bit controller standard (Dual SKRs)
+- 32 bit controller standard (Dual SKRs), Others Optional
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
