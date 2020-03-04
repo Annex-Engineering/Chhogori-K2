@@ -8,6 +8,8 @@ Our discord server can be found here: https://discord.gg/MzTR3zE
 
 BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 
+Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1LlHkrrIWt3NFW9NkrmP7g/edit?usp=sharing
+
 This project is still in flux, things may change, the goals of this project are as follows:
 
 - Fully Enclosed Design
