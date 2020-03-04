@@ -6,14 +6,14 @@ This is an entirely scratch design, based on the efforts of the "Hypercube Overk
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
-BOM/Sourcing Guide for a 250x225x250 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 
 This project is still in flux, things may change, the goals of this project are as follows:
 
 - Fully Enclosed Design
 - 2020, 2040, and 2060 Frame Members
 - Insulated Build Chamber (Not Heated)
-- Build Volumes of 200x175xz200 to 400x375x400 (use of whole plate available, gantry is offset by 25mm backwards due to crossing rails, hence smaller Y travel) + additional area to purge and wipe
+- Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
 - Direct Drive Extruder
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed, Fixed Gantry
