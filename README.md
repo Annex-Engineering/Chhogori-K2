@@ -28,3 +28,9 @@ This project is still in flux, things may change, the goals of this project are 
 - 32 bit controller standard (Dual SKRs), Others Optional
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
+
+ ![Image of K2 with Panels](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/ISO_Lit.JPG?raw=true)
+ 
+ ![Image of K2 without Panels](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/ISO_No_Panels.JPG?raw=true)
+ 
+ ![Image of K2 Toolhead](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/Toolhead.JPG?raw=true)
