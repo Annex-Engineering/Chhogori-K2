@@ -1,6 +1,6 @@
-# K2 Printer
+# Chhogori (K2) Printer
 
-Project K2 is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
+Chhogori (K2) is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
 This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System
 
