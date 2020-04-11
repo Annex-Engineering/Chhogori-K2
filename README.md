@@ -24,7 +24,7 @@ This project is still in flux, things may change, the goals of this project are 
 - 9mm Belts on XY, 1204 Ballscrews on Z to lift the Bed
 - Heavy Duty Bearings
 - LDO Stepper Motors (Optional but Recommended)
-- Minimal Printed Parts (ABS Required, Filled Nylon Recommended)
+- Minimal Printed Parts (ABS Required)
 - 32 bit controller standard (Dual SKRs), Others Optional
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
