@@ -10,8 +10,7 @@ BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.googl
 
 Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1LlHkrrIWt3NFW9NkrmP7g/edit?usp=sharing
 
-This project is still in flux, things may change, the goals of this project are as follows:
-
+# Project Goals:
 - Fully Enclosed Design
 - 2020, 2040, and 2060 Frame Members
 - Insulated Build Chamber (Not Heated)
@@ -30,15 +29,16 @@ This project is still in flux, things may change, the goals of this project are 
 - 24V Power Standard
 - AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
-Release Schedule:
+# Release Schedule:
  - Release 1 - RC2: Final True Release
- - Release 1: Bug Fixes from Final Testing of RC2
+ - Release 1.0: Bug Fixes from Final Testing of RC2
  - Release 1.1: Belted Z Drive Option
  - Release 1.2: New Front Door Design
  - Release 2.0: New Gantry
 
- ![Image of K2 with Panels](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/ISO_Lit.JPG?raw=true)
+# Renders
+ ![Image of K2 with Panels](Images/ISO_Lit.JPG?raw=true)
  
- ![Image of K2 without Panels](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/ISO_No_Panels.JPG?raw=true)
+ ![Image of K2 without Panels](Images/ISO_No_Panels.JPG?raw=true)
  
- ![Image of K2 Toolhead](https://raw.githubusercontent.com/Annex-Engineering/K2/master/Images/Toolhead.JPG?raw=true)
+ ![Image of K2 Toolhead](Images/Toolhead.JPG?raw=true)
