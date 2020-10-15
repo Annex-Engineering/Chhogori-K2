@@ -37,8 +37,8 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
  - Release 2.0: New Gantry
 
 # Renders
- ![Image of K2 with Panels](Release1/Images/ISO_Lit.JPG?raw=true)
+ ![Image of K2 with Panels](Release_1/Images/ISO_Lit.JPG?raw=true)
  
- ![Image of K2 without Panels](Release1/Images/ISO_No_Panels.JPG?raw=true)
+ ![Image of K2 without Panels](Release_1/Images/ISO_No_Panels.JPG?raw=true)
  
- ![Image of K2 Toolhead](Release1/Images/Toolhead.JPG?raw=true)
+ ![Image of K2 Toolhead](Release_1/Images/Toolhead.JPG?raw=true)
