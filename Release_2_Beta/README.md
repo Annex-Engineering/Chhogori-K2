@@ -16,7 +16,8 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - Fully Enclosed Design
 - 2020, 2040, and 2060 Frame Members
 - Insulated Build Chamber (Not Heated)
-- Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
+- Build Volumes of ~200^3 to 500^3 (use of whole plate available) + additional area to purge and wipe
+     - Z can theoretically be 1m tall, just not fully supported or tested
 
 - Direct Drive Extruder (Sherpa Mini or Ascender)
 
