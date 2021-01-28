@@ -1,4 +1,4 @@
-# Chhogori (K2) Printer - Summit Edition
+# Chhogori (K2) Printer - Summit Edition - Release 2
 
 Chhogori (K2) - Summit Edition: is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -10,28 +10,34 @@ BOM/Sourcing Guide for a 250x250x250 Build can be found here: https://docs.googl
 
 Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1LlHkrrIWt3NFW9NkrmP7g/edit?usp=sharing
 
-# Project Goals:
+# Stats:
 - Fully Enclosed Design
 - 2020, 2040, and 2060 Frame Members
 - Insulated Build Chamber (Not Heated)
-- Build Volumes of ~200^3 to 400^3 (use of whole plate available) + additional area to purge and wipe
-- Direct Drive Extruder
+- Build Volumes of ~250^3 to 500^3 (use of whole plate available) + additional area to purge and wipe
+     - Z can theoretically be 1m tall, just not fully supported or tested
+
+- Direct Drive Extruder (Sherpa Mini or Ascender)
+
 - Shortest Belt Paths Possible, 4 Motors, 2 Per X, 2 Per Y Axis
 - Moving Bed, Fixed Gantry
-- MGN9 Rails (Z Axis)
-- MGN9 and MGN12 Rails (X, Y)
-- 9mm Belts on XY, 1204 Ballscrews on Z to lift the Bed
+
+- MGN12C Rails for XYZ Stationary Rails
+- MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
+- 12mm Belts on XY Motion 
+- 1204 Ballscrews with Oldham Joints or 15mm 3HTD Belts with Gearbox Motors on Z to lift the Bed
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
-- LDO Stepper Motors (Optional but Recommended)
-- Minimal Printed Parts (ABS Required)
-- 32 bit controller standard (Dual SKRs), Others Optional
-- 24V Power Standard
-- AC Heated Bed, 12mm MIC6 Plate with Magnetic Build Surface
 
-# Renders
- ![Image of K2 with Panels](Archive/Release_1/Images/ISO_Lit.JPG?raw=true)
+- Minimal Printed Parts (ABS Required)
+
+- Fysetc S6 Controllers with Klipper recommended, SKR1.3 and SKR 1.4 are also supported
+- Mosquito Style Hot End Standard, Dragon Style Hot End Supported
+- 24V Power Standard
+- Mains Bed
+
+![Image of Toolhead](Release_2/Images/k2_toolhead_r2_02_transp.png?raw=true)
  
- ![Image of K2 without Panels](Archive/Release_1/Images/ISO_No_Panels.JPG?raw=true)
- 
- ![Image of K2 Toolhead](Archive/Release_1/Images/Toolhead.JPG?raw=true)
+![Image of Toolhead 2](Release_2/Images/k2_toolhead_r2_03_transp.png?raw=true)
+  
+![Image of Toolhead 3](Release_2/Images/k2_toolhead_r2_04_transp.png?raw=true)
