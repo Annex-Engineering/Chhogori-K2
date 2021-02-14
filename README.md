@@ -29,15 +29,23 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
-- Minimal Printed Parts (ABS Required)
+- Minimal Printed Parts (ABS or ASA Required)
 
 - Fysetc S6 Controllers with Klipper recommended, SKR1.3 and SKR 1.4 are also supported
 - Mosquito Style Hot End Standard, Dragon Style Hot End Supported
 - 24V Power Standard
 - Mains Bed
 
-![Image of Toolhead](Release_2/Images/k2_toolhead_r2_02_transp.png?raw=true)
+![Image of Front View](Release_2/Images/1800px_k2_r2_render_center.png?raw=true)
  
-![Image of Toolhead 2](Release_2/Images/k2_toolhead_r2_03_transp.png?raw=true)
+![Image of ISO View](Release_2/Images/1800px_k2_r2_render_dimetric.png?raw=true)
   
-![Image of Toolhead 3](Release_2/Images/k2_toolhead_r2_04_transp.png?raw=true)
+![Image of Annex Logo](Release_2/Images/1800px_k2_r2_render_logozoom.png?raw=true)
+
+![Image of Bed Underside](Release_2/Images/1800px_k2_r2_render_lowertext.png?raw=true)
+
+![Image of ISO Rear](Release_2/Images/1800px_k2_r2_render_rear.png?raw=true)
+
+![Image of Toolhead 1](Release_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+
+![Image of Toolhead 2](Release_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
