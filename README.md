@@ -25,7 +25,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - MGN12C Rails for XYZ Stationary Rails
 - MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
 - 12mm Belts on XY Motion 
-- 1204 Ballscrews with Oldham Joints or 15mm 3HTD Belts with Gearbox Motors on Z to lift the Bed
+- 1204 Ballscrews with Oldham Joints or 15mm 3HTD Belts with Planetary Gearbox Motors or 60:1 Worm Drive on Z to lift the Bed
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
