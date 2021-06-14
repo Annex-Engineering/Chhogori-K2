@@ -31,7 +31,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 
 - Minimal Printed Parts (ABS or ASA Required)
 
-- Fysetc S6 Controllers with Klipper recommended, SKR1.3 and SKR 1.4 are also supported (but will be sunset with the next release)
+- Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
 - Mosquito Style Hot End Standard, Dragon Style Hot End Supported
 - 24V Power Standard
 - Mains Bed
