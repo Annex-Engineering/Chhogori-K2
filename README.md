@@ -1,4 +1,4 @@
-# Chhogori (K2) Printer - Summit Edition - Release 2
+# Chhogori (K2) Printer - Summit Edition - Release 2.0.1
 
 Chhogori (K2) - Summit Edition: is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -25,7 +25,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - MGN12C Rails for XYZ Stationary Rails
 - MGN12C Rails with 1515 Backers for XY Cross (Moving Members)
 - 12mm Belts on XY Motion 
-- 1204 Ballscrews with Oldham Joints or 15mm 3HTD Belts with Planetary Gearbox Motors or 60:1 Worm Drive on Z to lift the Bed
+- 15mm 3HTD Belts with 60:1 Worm Drive on Z to lift the Bed
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
@@ -36,16 +36,16 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - 24V Power Standard
 - Mains Bed
 
-![Image of Front View](Release_2/Images/1800px_k2_r2_render_center.png?raw=true)
+![Image of Front View](Release_2_0_1/Images/1800px_k2_r2_render_center.png?raw=true)
  
-![Image of ISO View](Release_2/Images/1800px_k2_r2_render_dimetric.png?raw=true)
+![Image of ISO View](Release_2_0_1/Images/1800px_k2_r2_render_dimetric.png?raw=true)
   
-![Image of Annex Logo](Release_2/Images/1800px_k2_r2_render_logozoom.png?raw=true)
+![Image of Annex Logo](Release_2_0_1/Images/1800px_k2_r2_render_logozoom.png?raw=true)
 
-![Image of Bed Underside](Release_2/Images/1800px_k2_r2_render_lowertext.png?raw=true)
+![Image of Bed Underside](Release_2_0_1/Images/1800px_k2_r2_render_lowertext.png?raw=true)
 
-![Image of ISO Rear](Release_2/Images/1800px_k2_r2_render_rear.png?raw=true)
+![Image of ISO Rear](Release_2_0_1/Images/1800px_k2_r2_render_rear.png?raw=true)
 
-![Image of Toolhead 1](Release_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_0_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Release_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_0_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
