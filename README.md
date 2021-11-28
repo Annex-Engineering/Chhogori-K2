@@ -38,16 +38,16 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - 24V Power Standard
 - Mains Bed
 
-![Image of Front View](Archive/Release_2_0_1/Images/1800px_k2_r2_render_center.png?raw=true)
+![Image of Front View](Release_2_1/Images/1800px_k2_r2_render_center.png?raw=true)
  
-![Image of ISO View](Archive/Release_2_0_1/Images/1800px_k2_r2_render_dimetric.png?raw=true)
+![Image of ISO View](Release_2_1/Images/1800px_k2_r2_render_dimetric.png?raw=true)
   
-![Image of Annex Logo](Archive/Release_2_0_1/Images/1800px_k2_r2_render_logozoom.png?raw=true)
+![Image of Annex Logo](Release_2_1/Images/1800px_k2_r2_render_logozoom.png?raw=true)
 
-![Image of Bed Underside](Archive/Release_2_0_1/Images/1800px_k2_r2_render_lowertext.png?raw=true)
+![Image of Bed Underside](Release_2_1/Images/1800px_k2_r2_render_lowertext.png?raw=true)
 
-![Image of ISO Rear](Archive/Release_2_0_1/Images/1800px_k2_r2_render_rear.png?raw=true)
+![Image of ISO Rear](Release_2_1/Images/1800px_k2_r2_render_rear.png?raw=true)
 
-![Image of Toolhead 1](Archive/Release_2_0_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Archive/Release_2_0_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
