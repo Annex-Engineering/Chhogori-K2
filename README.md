@@ -1,6 +1,6 @@
-# Chhogori (K2) Printer - Summit Edition - Release 2.1
+# Chhogori (K2) Printer - Release 2.1
 
-Chhogori (K2) - Summit Edition: is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
+Chhogori (K2): is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
 This is an entirely scratch design, based on the efforts of the "Hypercube Overkill Project" for the XY Motion System
 
