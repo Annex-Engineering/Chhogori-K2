@@ -1,4 +1,4 @@
-# Chhogori (K2) Printer - Release 2.1
+# Chhogori (K2) Printer - Release 2.2
 
 Chhogori (K2): is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -33,23 +33,23 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 - Heavy Duty Bearings
 - NEMA17 Motors XYZ
 
-- Minimal Printed Parts (ABS or ASA Required)
+- Minimal Printed Parts (ABS or ASA Required, PC Recommended for motion components)
 
 - Fysetc Spider or S6 Controller + BTT Expander Board with Klipper Required
-- Mosquito Style, Dragon Style, Mosquito Magnum+ and Nitram's VolcoMosquito hotends supported
-- 24V Power Standard
+- Mosquito Style, Dragon Style, Mosquito Magnum+, Nitram's VolcoMosquito, and many other hotends supported
+- 24V Power Standard, 48V Optional and Preferred
 - Mains Bed
 
-![Image of Front View](Release_2_1/Images/1800px_k2_r2_render_center.png?raw=true)
+![Image of Front View](Release_2_2/Images/1800px_k2_r2_render_center.png?raw=true)
  
-![Image of ISO View](Release_2_1/Images/1800px_k2_r2_render_dimetric.png?raw=true)
+![Image of ISO View](Release_2_2/Images/1800px_k2_r2_render_dimetric.png?raw=true)
   
-![Image of Annex Logo](Release_2_1/Images/1800px_k2_r2_render_logozoom.png?raw=true)
+![Image of Annex Logo](Release_2_2/Images/1800px_k2_r2_render_logozoom.png?raw=true)
 
-![Image of Bed Underside](Release_2_1/Images/1800px_k2_r2_render_lowertext.png?raw=true)
+![Image of Bed Underside](Release_2_2/Images/1800px_k2_r2_render_lowertext.png?raw=true)
 
-![Image of ISO Rear](Release_2_1/Images/1800px_k2_r2_render_rear.png?raw=true)
+![Image of ISO Rear](Release_2_2/Images/1800px_k2_r2_render_rear.png?raw=true)
 
-![Image of Toolhead 1](Release_2_1/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
+![Image of Toolhead 1](Release_2_2/Images/1800px_k2_r2_render_toolhead_lower.png?raw=true)
 
-![Image of Toolhead 2](Release_2_1/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
+![Image of Toolhead 2](Release_2_2/Images/1800px_k2_r2_render_toolhead_upper.png?raw=true)
