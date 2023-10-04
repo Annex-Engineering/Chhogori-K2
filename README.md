@@ -1,7 +1,6 @@
 # Chhogori (K2) Printer
 
-## The Current Release is: Release 3 - Beta 1
-
+## The Current Release is: Release 3 for XY Gantry and Release 2.2 for Z Drive
 ## Info:
 Chhogori (K2): is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
@@ -29,7 +28,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1hEwPB6xaeSEoHs37LAolL1
 
 - MGN12H Rails for XY Stationary Rails
 - MGN15H Rails for XY Cross (Moving Members)
-- MGN15H Rails for Z - will be provided in a future update
+- MGN12C Rails for Z - using 2.2 parts
 - Laser cut metal parts throughout for stiffness and strength (steel recommended in most places, aluminum on moving components)
 - 12mm 2GT Belts on XY Motion 
 - 12mm 2GT Belts with 20:1 Worm Drive on Z to lift the Bed 
