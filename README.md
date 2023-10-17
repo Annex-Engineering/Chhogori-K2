@@ -1,6 +1,7 @@
 # Chhogori (K2) Printer
 
 ## The Current Release is: Release 3 for XY Gantry and Release 2.2 for Z Drive
+
 ## Info:
 Chhogori (K2): is a Medium Format, Direct Drive, Fully Enclosed FDM Printer.
 
